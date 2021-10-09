@@ -12,7 +12,7 @@
     "url": "git+https://github.com/amsudathka/FullStack.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sudath Attanayake",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/amsudathka/FullStack/issues"
@@ -22,7 +22,8 @@
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.1",
-    "mongoose": "^6.0.5"
+    "mongoose": "^6.0.5",
+    "multer": "^1.4.3"
   },
   "devDependencies": {
     "dotenv": "^10.0.0",
